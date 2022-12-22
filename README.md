@@ -23,7 +23,7 @@ Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo
 ## 🖥️ Como executar
 Você pode fazer o download do projeto clicando na opção Code e em seguida selecionando Download Zip.
 
-Ou acessar este link: [Barbearia Alura](https://armanobarros.github.io/Barbearia_Alura/)
+Ou acesse este link: [Barbearia Alura](https://armanobarros.github.io/Barbearia_Alura/)
 ## ✒️ Autores
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
