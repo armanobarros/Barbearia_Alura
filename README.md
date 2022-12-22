@@ -1,7 +1,7 @@
 # 💇‍♂️ Barbearia Alura
 
 
-**Status do projeto: 33%**
+**Status do projeto: Em andamento**
 ## 🚀 Sobre o Projeto
 
 Projeto de construção de um site base, para que assim sejá passado ensinamentos básicos em relação ao desenvolvimento Web.
